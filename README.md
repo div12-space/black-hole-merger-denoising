@@ -1,5 +1,6 @@
 black-hole-merger-denoising
 # Machine Learning-Based Denoising of Binary Black-Hole Merger Waveforms
+![GW150914 Q-transform](images/3.png)
 
 This is an independent research-oriented machine learning project focused on binary black-hole merger waveform denoising.
 
@@ -23,5 +24,3 @@ This is an early-stage research prototype. The current version uses simulated BB
 ## Tools used
 
 Python, GWpy, GWOSC, PyCBC, NumPy, SciPy, Pandas, Matplotlib, TensorFlow/Keras.
-
-images/
