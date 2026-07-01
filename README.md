@@ -23,3 +23,5 @@ This is an early-stage research prototype. The current version uses simulated BB
 ## Tools used
 
 Python, GWpy, GWOSC, PyCBC, NumPy, SciPy, Pandas, Matplotlib, TensorFlow/Keras.
+
+images/
