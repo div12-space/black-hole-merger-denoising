@@ -1,4 +1,4 @@
-#Black-Hole Merger Signal Detection & Denoising Pipeline
+# Black-Hole Merger Signal Detection & Denoising Pipeline
 # Machine Learning-Based Denoising of Binary Black-Hole Merger Waveforms
   Divyanshu Beniwal
 ![GW150914 Q-transform](images/3.png)
