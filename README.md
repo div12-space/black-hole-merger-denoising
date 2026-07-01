@@ -1,5 +1,6 @@
 black-hole-merger-denoising
 # Machine Learning-Based Denoising of Binary Black-Hole Merger Waveforms
+- Divyanshu Beniwal
 ![GW150914 Q-transform](images/3.png)
 
 This is an independent research-oriented machine learning project focused on binary black-hole merger waveform denoising.
