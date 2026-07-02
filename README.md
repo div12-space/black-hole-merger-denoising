@@ -1,4 +1,4 @@
-# Black-Hole Merger Signal Detection & Denoising Pipeline
+## Black-Hole Merger Signal Detection & Denoising Pipeline
 Divyanshu Beniwal
 # Machine Learning-Based Denoising of Binary Black-Hole Merger Waveforms
   Divyanshu Beniwal
