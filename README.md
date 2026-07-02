@@ -1,7 +1,7 @@
-## Black-Hole Merger Signal Detection & Denoising Pipeline
+#Black-Hole Merger Signal Detection & Denoising Pipeline
 Divyanshu Beniwal
-# Machine Learning-Based Denoising of Binary Black-Hole Merger Waveforms
-  Divyanshu Beniwal
+## Machine Learning-Based Denoising of Binary Black-Hole Merger Waveforms
+
 ![GW150914 Q-transform](images/3.png)
 
 This is an independent research-oriented machine learning project focused on binary black-hole merger waveform denoising.
