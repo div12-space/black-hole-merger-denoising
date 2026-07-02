@@ -1,6 +1,6 @@
 
 # Machine Learning-Based Denoising of Binary Black-Hole Merger Waveforms
-## Divyanshu Beniwal
+ Divyanshu Beniwal
 
 ![GW150914 Q-transform](images/3.png)
 
